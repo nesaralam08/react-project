@@ -24,7 +24,7 @@ function App() {
               <button className='p-3 rounded-lg bg-green-500' onClick={handle}>Generate New</button>
               </div>
           </div>
-          <h1 className='absolute bottom-6 text-1xl text-zinc-700 font-semibold hover:text-green-500'>Made By:Nesar Alam</h1>
+          <h1 className='absolute bottom-24 text-1xl text-zinc-700 font-semibold hover:text-green-500'>Made By:Nesar Alam</h1>
         </div>
     </>
   )
