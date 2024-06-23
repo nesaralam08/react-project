@@ -14,7 +14,7 @@ function App() {
   }
   return (
     <>
-        <div className='relative flex justify-center min-h-full h-screen w-full bg-zinc-900 sm:p-5'>
+        <div className='relative flex justify-center min-h-screen h-screen w-full bg-zinc-900 sm:p-5'>
           <h1 className='absolute  top-8 text-2xl text-white font-semibold'>Random Jokes Generator</h1>
           <div className='absolute min-h-[200px] min-w-[300px] h-auto rounded-lg left-1/2 top-1/2 bg-zinc-800 p-10 -translate-x-[50%] -translate-y-[50%] flex flex-col gap-8'>
               <div>
